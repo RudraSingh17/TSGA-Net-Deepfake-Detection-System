@@ -2,7 +2,7 @@
 
 A research-grade deep learning framework designed to detect high-fidelity AI-generated images using spatial, attentional, and graph-based structural verification.
 
----
+
 
 ## 📖 About
 SentinAI tackles the growing challenge of hyper-realistic synthetic media by introducing a novel neural architecture: the **Tri-Stream Spatial-Graph-Attention Network (TSGA-Net)**. Trained extensively on a diverse dataset of 100,000+ real and synthetic images (from Stable Diffusion, Midjourney, and StyleGAN), the system moves beyond basic pixel-level artifact detection. By analyzing images across three dimensions simultaneously—visual texture, attentional focus, and structural consistency—SentinAI achieves an impressive 95.4% validation accuracy, ensuring robust digital forensics and media integrity.
